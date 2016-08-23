@@ -1,0 +1,19 @@
+{
+  "name": "video-embed",
+  "version": "1.0.0",
+  "description": "Lazy load embedded video from YouTube or Vimeo when clicking on provided toggle button.",
+  "main": "video-embed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinderson/video-embed.git"
+  },
+  "author": "Mattias Hinderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hinderson/video-embed/issues"
+  },
+  "homepage": "https://github.com/hinderson/video-embed#readme"
+}
